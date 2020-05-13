@@ -6,6 +6,8 @@ If you find inaccuracies in this list or want to provide more detail, please [ed
 
 |Program|Compatiblity|Notes|
 |---|---|---|
+|Webex Meetings|---|---|
+|Webex Teams|---|---|
 |Google Chrome|Yes||
 |Zoom|No*|Possible to run by changing entitlements. See note on apps that don't allow DAL plugins.|
 |Skype|Yes||
